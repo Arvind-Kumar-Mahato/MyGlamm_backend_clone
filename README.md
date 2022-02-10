@@ -1,7 +1,7 @@
 # MyGlamm_backend_clone
 # Clone of Myglamm
 
-reMyGlamm is India’s fastest growing direct-to-consumer beauty brand. MyGlamm embraces the philosophy of building a community with its users, engaging with them and eventually co-creating products with them. In July 2020, With over 800 SKUs across makeup, skincare and personal care, MyGlamm Beauty Products feature advanced, rich, feel-good formulas that are 100% cruelty-free, embrace Clean Beauty, and have skin-friendly ingredients.
+MyGlamm is India’s fastest growing direct-to-consumer beauty brand. MyGlamm embraces the philosophy of building a community with its users, engaging with them and eventually co-creating products with them. In July 2020, With over 800 SKUs across makeup, skincare and personal care, MyGlamm Beauty Products feature advanced, rich, feel-good formulas that are 100% cruelty-free, embrace Clean Beauty, and have skin-friendly ingredients.
 
 # [](https://github.com/shivamongit/MyGlamm_backend_clone#technologies-we-used)Technologies we used
 
